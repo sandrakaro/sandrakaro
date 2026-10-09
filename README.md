@@ -1,5 +1,7 @@
-## Hey!
+## Welcome to my github!
 ![Banner](images/banner.png)
+🔭 Currently working on a web application and a software development project.
+🌱 Currently learning JavaScript.
 <!--
 **sandrakaro/sandrakaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
