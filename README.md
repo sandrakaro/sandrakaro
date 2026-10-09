@@ -1,5 +1,6 @@
 ## Welcome to my github!
 ![Banner](images/banner.png)
+   
 🔭 Currently working on a web application and a software development project.   
 🌱 Currently learning JavaScript.
 <!--
